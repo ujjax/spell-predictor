@@ -1,2 +1,2 @@
 # spell-predictor
-Predicting the next or current word
+Context aware Prediction of the next or current word in sentence.
