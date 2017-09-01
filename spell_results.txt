@@ -1,0 +1,229 @@
+
+SENTENCES USED
+
+############################################################################################
+
+"It is not a lack of love, but a lack of friendship that makes unhappy marriages."
+"That which does not kill us makes us stronger."
+"I'm not upset that you lied to me, I'm upset that from now on I can't believe you."
+"And those who were seen dancing were thought to be insane by those who could not hear the music."
+"It is hard enough to remember my opinions, without also remembering my reasons for them!"
+,"This is not fun at all."
+"I did not get a chance to visit my dream place with my mother."
+
+###############################################################################################
+it is not a lack of love, but a lack of 
+[u'ofthe ', u'ofa ', u'ofmore ', u'ofsome ', u'ofconsequence ']
+ is not a lack of love, but a lack of fr
+[u'freedom ', u'from ', u'friend ', u'france ', u'frueht ']
+s not a lack of love, but a lack of frie
+[u'friend ', u'frieht ', u'frie the ', u'friet, ', u'frieed ']
+not a lack of love, but a lack of friend
+[u'friend the ', u'friends ', u'friend, ', u'friender ', u'friendate ']
+t a lack of love, but a lack of friendsh
+[u'friendshed ', u'friendsh and ', u'friendshing ', u'friendshance ', u'friendshous ']
+a lack of love, but a lack of friendship
+[u'friendship the ', u'friendshipe ', u'friendships ', u'friendshipt ', u'friendshipus ']
+lack of love, but a lack of friendship t
+[u'the ', u'to ', u'tears ', u'truth ', u'takes ']
+ck of love, but a lack of friendship tha
+[u'that ', u'than ', u'thas ', u'thar ', u'thail ']
+ of love, but a lack of friendship that 
+[u'thatis ', u'thatthe ', u'thathe ', u'thatwhich ', u'thatas ']
+f love, but a lack of friendship that ma
+[u'man ', u'may ', u'master ', u'make ', u'made ']
+love, but a lack of friendship that make
+[u'make the ', u'makes ', u'makere ', u'makenes ', u'makely ']
+ve, but a lack of friendship that makes 
+[u'makesthe ', u'makesof ', u'makesand ', u'makesin ', u'makeswhich ']
+, but a lack of friendship that makes un
+[u'understood ', u'uncernand ', u'unferendance ', u'un the ', u'uninto ']
+but a lack of friendship that makes unha
+[u'unhard ', u'unhand ', u'unhast ', u'unhapes ', u'unhade ']
+t a lack of friendship that makes unhapp
+[u'unhapper ', u'unhappition ', u'unhappation ', u'unhappolition ', u'unhapple ']
+a lack of friendship that makes unhappy 
+[u'unhappyand ', u'unhappythe ', u'unhappyis ', u'unhappyone ', u'unhappyenough ']
+lack of friendship that makes unhappy ma
+[u'man ', u'may ', u'master ', u'make ', u'made ']
+ck of friendship that makes unhappy marr
+[u'marring ', u'marred ', u'marration ', u'marror ', u'marrh ']
+ of friendship that makes unhappy marria
+[u'marrian ', u'marrial ', u'marriar ', u'marriation ', u'marriad ']
+f friendship that makes unhappy marriage
+[u'marriage the ', u'marriaged ', u'marriages ', u'marriager ', u'marriage, ']
+that which does not kill us makes us str
+[u'strong ', u'strict ', u'strength ', u'strach ', u'struch ']
+at which does not kill us makes us stron
+[u'strong ', u'strond ', u'stront ', u'stroness ', u'stronce ']
+ which does not kill us makes us stronge
+[u'stronger ', u'stronged ', u'stronge the ', u'stronges ', u'strongent ']
+i'm not upset that you lied to me, i'm u
+[u'us ', u'understood ', u'upon ', u'uron ', u'uther ']
+m not upset that you lied to me, i'm ups
+[u'upser ', u'upsoment ', u'upsilism ', u'ups is ', u'upspress ']
+not upset that you lied to me, i'm upset
+[u'upsetere ', u'upsetter ', u'upsetation ', u'upsetion ', u'upset of ']
+t upset that you lied to me, i'm upset t
+[u'the ', u'to ', u'truth ', u'take ', u'tear ']
+upset that you lied to me, i'm upset tha
+[u'that ', u'than ', u'thas ', u'thar ', u'thail ']
+set that you lied to me, i'm upset that 
+[u'thatis ', u'thatthe ', u'thathe ', u'thatwhich ', u'thatas ']
+t that you lied to me, i'm upset that fr
+[u'from ', u'free ', u'friend ', u'france ', u'frueht ']
+that you lied to me, i'm upset that from
+[u'from the ', u'from, ', u'fromeral ', u'froms ', u'froming ']
+at you lied to me, i'm upset that from n
+[u'no ', u'neershand ', u'nature ', u'numeration ', u'ninkeral ']
+ you lied to me, i'm upset that from now
+[u'nowadays ', u'now is ', u'now, ', u'nower ', u'nowled ']
+ou lied to me, i'm upset that from now o
+[u'of ', u'only ', u'out ', u'or ', u'oppose ']
+ lied to me, i'm upset that from now on 
+[u'onthe ', u'onsuch ', u'onhis ', u'onindividual ', u'onevery ']
+ied to me, i'm upset that from now on i 
+[u'istand ', u'iman ', u'idecesting ', u'inot ', u'ithe ']
+d to me, i'm upset that from now on i ca
+[u'can ', u'cases ', u'cares ', u'call ', u'came ']
+to me, i'm upset that from now on i can'
+[u"can's ", u"can' the ", u"can'ness ", u"can't ", u"can'be "]
+ me, i'm upset that from now on i can't 
+[u"can'tthe ", u"can'tand ", u"can'ton ", u"can'tis ", u"can'the "]
+e, i'm upset that from now on i can't be
+[u'be school ', u'become ', u'been ', u'being ', u'betray ']
+ i'm upset that from now on i can't beli
+[u'believe ', u'beling ', u'belice ', u'belise ', u'belite ']
+'m upset that from now on i can't believ
+[u'believe ', u'believ the ', u'believien ', u'believul ', u'believous ']
+ upset that from now on i can't believe 
+[u'believethe ', u'believeone ', u'believeschore ', u'believeconsequence ', u'believedesely ']
+pset that from now on i can't believe yo
+[u'your ', u'yon ', u'yor ', u'yoo ', u'yoe ']
+and those who were seen dancing were tho
+[u'those ', u'thought ', u'thook ', u'thone ', u'thore ']
+d those who were seen dancing were thoug
+[u'thought ', u'thougg ', u'thouging ', u'thougar ', u'thougn ']
+those who were seen dancing were thought
+[u'thought of ', u'thought, ', u'thoughts ', u'thought. ', u'thoughtn ']
+ose who were seen dancing were thought t
+[u'the ', u'to ', u'truth ', u'takes ', u'tear ']
+e who were seen dancing were thought to 
+[u'tothe ', u'toan ', u'toseem ', u'toconsequence ', u'tohim ']
+who were seen dancing were thought to be
+[u'be school ', u'beelless ', u'become ', u'beally ', u'believe ']
+o were seen dancing were thought to be i
+[u'in ', u'is ', u'it ', u'impose ', u'ideas ']
+were seen dancing were thought to be ins
+[u'inservence ', u'instinct ', u'inscience ', u'insiding ', u'inspires ']
+re seen dancing were thought to be insan
+[u'insan of ', u'insance ', u'insaning ', u'insander ', u'insantion ']
+ seen dancing were thought to be insane 
+[u'insaneand ', u'insanethe ', u'insaneof ', u'insaneis ', u'insanewhen ']
+een dancing were thought to be insane by
+[u'by the ', u'by, ', u'byond ', u'byen ', u'bylong ']
+n dancing were thought to be insane by t
+[u'the ', u'to ', u'truth ', u'tears ', u'take ']
+dancing were thought to be insane by tho
+[u'those ', u'thought ', u'tho more ', u'thohe ', u'thom ']
+ncing were thought to be insane by those
+[u'those the ', u'those, ', u'thoses ', u'thoseless ', u'those. ']
+ing were thought to be insane by those w
+[u'which ', u'we ', u'will ', u'world ', u'was ']
+g were thought to be insane by those who
+[u'who has ', u'whole ', u'who, ', u'whom ', u'whose ']
+were thought to be insane by those who c
+[u'conterpresence ', u'certain ', u'can ', u'creation ', u'charable ']
+re thought to be insane by those who cou
+[u'could ', u'countiness ', u'course ', u'coust ', u'couther ']
+ thought to be insane by those who could
+[u'could the ', u'coulds ', u'could, ', u'coulded ', u'could. ']
+hought to be insane by those who could n
+[u'no ', u'nature ', u'neerse ', u'nuther ', u'ninger ']
+ught to be insane by those who could not
+[u'not the ', u'nother ', u'not, ', u'notress ', u'notter ']
+ht to be insane by those who could not h
+[u'he ', u'hand ', u'him ', u'hone ', u'human ']
+ to be insane by those who could not hea
+[u'heart ', u'heally ', u'head ', u'heast ', u'heact ']
+o be insane by those who could not hear 
+[u'hearthe ', u'hearschore ', u'hearand ', u'hearof ', u'hearmen ']
+be insane by those who could not hear th
+[u'the ', u'that ', u'this ', u'those ', u'through ']
+ insane by those who could not hear the 
+[u'thesense ', u'thepropertation ', u'thecontempores ', u'theman ', u'thedesely ']
+nsane by those who could not hear the mu
+[u'must ', u'much ', u'mulision ', u'murise ', u'muther ']
+ane by those who could not hear the musi
+[u'music ', u'musis ', u'musing ', u'musid ', u'musit ']
+it is hard enough to remember my opinion
+[u'opinion of ', u'opinion, ', u'opinions ', u'opinional ', u'opinion. ']
+ is hard enough to remember my opinions,
+[u'opinions, and ', u'opinions,, ', u'opinions,. ', u'opinions,s ', u'opinions,lent ']
+s hard enough to remember my opinions, w
+[u'which ', u'we ', u'with ', u'world ', u'was ']
+hard enough to remember my opinions, wit
+[u'with ', u'wite ', u'wits ', u'wita ', u'witter ']
+rd enough to remember my opinions, witho
+[u'without ', u'withover ', u'withort ', u'withopt ', u'withone ']
+ enough to remember my opinions, without
+[u'without and ', u'withouts ', u'without, ', u'withouther ', u'withoutle ']
+nough to remember my opinions, without a
+[u'and ', u'as ', u'a stand ', u'all ', u'according ']
+ugh to remember my opinions, without als
+[u'also ', u'alse ', u'alsuper ', u'alsignation ', u'alshe ']
+h to remember my opinions, without also 
+[u'alsothe ', u'alsoa ', u'alsoone ', u'alsoso ', u'alsoin ']
+to remember my opinions, without also re
+[u'reason ', u'respect ', u'recessing ', u'religious ', u'retain ']
+ remember my opinions, without also reme
+[u'reme and ', u'rementation ', u'remes ', u'remearn ', u'reme, ']
+emember my opinions, without also rememb
+[u'remembard ', u'remembe ', u'rememby ', u'remembilled ', u'rememble ']
+ember my opinions, without also remember
+[u'remembers ', u'remember of ', u'remember, ', u'remembere ', u'rememberly ']
+ber my opinions, without also rememberin
+[u'remembering ', u'rememberines ', u'rememberinal ', u'rememberinism ', u'rememberint ']
+r my opinions, without also remembering 
+[u'rememberingthe ', u'rememberingof ', u'rememberingand ', u'rememberingin ', u'rememberingmen ']
+my opinions, without also remembering my
+[u'myst ', u'my some ', u'my, ', u'myther ', u'my. ']
+ opinions, without also remembering my r
+[u'reall ', u'roman ', u'race ', u'right ', u'rule ']
+pinions, without also remembering my rea
+[u'reall ', u'reason ', u'rearn ', u'read ', u'reaming ']
+nions, without also remembering my reaso
+[u'reason ', u'reaso and ', u'reasor ', u'reasoly ', u'reaso, ']
+ons, without also remembering my reasons
+[u'reasons and ', u'reasons, ', u'reasons. ', u'reasonster ', u'reasonsion ']
+s, without also remembering my reasons f
+[u'for ', u'from ', u'fand ', u'fullect ', u'feeling ']
+ without also remembering my reasons for
+[u'for the ', u'force ', u'fore ', u'form ', u'forger ']
+ithout also remembering my reasons for t
+[u'the ', u'to ', u'truth ', u'tender ', u'time ']
+hout also remembering my reasons for the
+[u'the sense ', u'them ', u'there ', u'their ', u'these ']
+i did not get a chance to visit my dream
+[u'dream the ', u'dream, ', u'dreament ', u'dreaming ', u'dreams ']
+did not get a chance to visit my dream p
+[u'propertation ', u'person ', u'possible ', u'part ', u'philosopher ']
+d not get a chance to visit my dream pla
+[u'place ', u'platos ', u'plaise ', u'planse ', u'plare ']
+not get a chance to visit my dream place
+[u'place the ', u'places ', u'place, ', u'place. ', u'placed ']
+t get a chance to visit my dream place w
+[u'which ', u'with ', u'we ', u'world ', u'was ']
+get a chance to visit my dream place wit
+[u'with ', u'wite ', u'wits ', u'witter ', u'wita ']
+t a chance to visit my dream place with 
+[u'withthe ', u'witha ', u'withstand ', u'withhe ', u'within ']
+a chance to visit my dream place with my
+[u'myster ', u'my sense ', u'my, ', u'myther ', u'myand ']
+chance to visit my dream place with my m
+[u'men ', u'more ', u'man ', u'must ', u'misteration ']
+ance to visit my dream place with my mot
+[u'moter ', u'mother ', u'motter ', u'motally ', u'motive ']
+ce to visit my dream place with my mothe
+[u'mother ', u'mothe one ', u'motheles ', u'mothes ', u'mothen ']
+
